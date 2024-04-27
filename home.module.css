@@ -1,0 +1,89 @@
+.div1
+{
+    background-color: black;
+    height: 60px;
+    color: rgb(235, 243, 240);
+    width: 100%;
+    opacity: 0.7;
+    text-shadow: 2px 2px #ba9898;
+text-align: center;
+font-size: 40px;
+}
+table
+{
+margin-left: 10px;
+text-align:  center;
+align-items: center;
+
+}
+.div5
+{
+    height: 30px;
+    width: 20px;
+    color: wheat;
+    background-color: black;
+}
+.div2
+{
+    margin-top: 80px;
+    background-color: black;
+    height: 300px;
+    width:230px;
+    color:rgb(236, 159, 236);
+    font-size: 150PX;
+
+}
+.div3
+{
+    margin-top: 80px;
+    background-color: black;
+    height: 300px;
+    width:230px;
+    color:rgb(236, 159, 236);
+    font-size: 150PX;
+
+
+}
+.div4
+{
+    margin-top: 80px;
+    background-color: black;
+    height: 300px;
+    width:230px;
+    color:rgb(236, 159, 236);
+font-size: 150PX;
+}
+
+
+.App
+{
+    background-color: rgb(158, 106, 164);
+}
+
+.component {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+input[type="text"] {
+    width: 80%; /* Set width to cover 80% of the screen */
+    padding: 10px; /* Add padding for better appearance */
+    font-size: 16px; /* Adjust font size */
+    margin-bottom: 20px; /* Add margin at the bottom for spacing */
+}
+
+button[type="submit"] {
+    width: 80%; /* Set width to cover 80% of the screen */
+    padding: 10px; /* Add padding for better appearance */
+    font-size: 16px; /* Adjust font size */
+    background-color: #4CAF50; /* Green */
+    color: white;
+    border: none;
+    cursor: pointer;
+    margin-top: 20px; /* Add margin at the top for spacing */
+}
+
+button[type="submit"]:hover {
+    background-color: #45a049; /* Darker green */
+}
